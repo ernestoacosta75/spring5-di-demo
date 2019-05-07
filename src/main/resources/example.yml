@@ -1,0 +1,28 @@
+# this is a comment
+
+name: Ernesto
+
+# Set up a list
+names:
+  - Ernesto
+  - Paul
+  - Ringo
+
+pound_sign: "#"
+
+book:
+  author: Joe Buck
+  publisher: random house
+
+# Set up booleans
+truth: yes
+another_truth: True
+more_true: true
+false: no #No, false, FALSE
+
+# Set up strings
+string_val: "This it's quote"
+include_new_lines: | #pipe means to read everything
+  sdsad sdsadas asdsad
+  ssdas fdfdf dfdfds
+  asddfdfa fgfhgh yuyuyt
